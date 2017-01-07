@@ -1,2 +1,5 @@
-# 04_BattleTank
-An open-world head-to-head fight with simple AI, terrain and advanced control system in Unreal 4.
+#Battle Tanks
+
+Open world tank game built with Unreal 4.
+
+This game was built as part of a Udemy course on game development. 
