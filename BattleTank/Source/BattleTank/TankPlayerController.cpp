@@ -18,8 +18,6 @@ void ATankPlayerController::BeginPlay()
 	{
 		UE_LOG(LogTemp, Warning, TEXT("Tank Possessed: %s"), *ControlledTank->GetName())
 	}
-
-	
 }
 
 ATank* ATankPlayerController::GetControlledTank() const 
